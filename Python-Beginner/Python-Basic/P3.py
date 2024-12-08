@@ -1,0 +1,5 @@
+name=input("Name: ")
+age=int(input("Age: "))
+height=float(input("Height: "))
+favcolor=input("Favourite Color: ")
+print("My name is :",name,"\nMy age is :",age,"\nMy height is :",height,"\nMy favourite color is :",favcolor)

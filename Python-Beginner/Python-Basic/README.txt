@@ -1,6 +1,6 @@
 # Python Basics Exercises
 
-This Folder contains Python programs to help beginner to advanced practice foundational programming questions. The exercises are categorized by difficulty and focus on printing, variables, basic I/O, data types, and operators.
+This folder contains Python programs to help beginners to advanced learners practice foundational programming questions. The exercises are categorized by difficulty and focus on printing, variables, basic I/O, data types, and operators.
 
 ---
 

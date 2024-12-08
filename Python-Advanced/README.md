@@ -2,14 +2,20 @@
 
 ---
 
-### **Intermediate Level**
-#### **3. Strings**
-- String methods, slicing, and formatting
+### **Advanced Level**
+#### **6. File Handling**
+- Reading from and writing to files
 
-#### **4. Lists and Tuples**
-- List methods, list comprehensions, slicing, and tuples
+#### **7. Functions**
+- Defining, calling, and passing arguments to functions
 
-#### **5. Dictionaries and Sets**
-- Dictionary methods, set operations
+#### **8. OOP (Object-Oriented Programming)**
+- Classes, objects, inheritance, and polymorphism
+
+#### **9. Error Handling**
+- Try-except, custom exceptions
+
+#### **10. Python Advanced**
+- Decorators, generators, context managers, regular expressions
 
 ---

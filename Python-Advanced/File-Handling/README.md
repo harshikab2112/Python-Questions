@@ -1,4 +1,4 @@
-# 50 Python File Handling Practice Questions
+# Python File Handling Practice Questions
 
 These **50 questions** focus on **file handling** in Python, including topics such as reading from and writing to files, handling file paths, and manipulating file content. The questions range from beginner to advanced levels.
 

@@ -1,7 +1,5 @@
 # Python Programming Levels
 
----
-
 ### **Beginner Level**
 #### **1. Python Basics**
 - **Printing, variables, and basic I/O**
